@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Vault-secret-finder < Formula
+class VaultSecretFinder < Formula
   desc "Vault Secret finder"
   homepage "https://github.com/evijayan2/vault-secret-finder"
   url "https://github.com/evijayan2/vault-secret-finder/releases/download/v0.0.1/vault-secret-finder_0.0.1_darwin_amd64.tar.gz"
